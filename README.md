@@ -1,3 +1,2 @@
 # MealGuru
-John Cullen
-Jason...
+
